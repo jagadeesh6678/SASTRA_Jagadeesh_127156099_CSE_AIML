@@ -1,0 +1,35 @@
+# ── Web Framework ──────────────────────────────────
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# ── Streamlit Frontend ─────────────────────────────
+streamlit
+requests
+
+# ── LangChain + GROQ ──────────────────────────────
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+groq
+
+# ── Embeddings + Vector Store ─────────────────────
+sentence-transformers
+faiss-cpu
+huggingface-hub
+transformers
+
+# ── PDF Processing ────────────────────────────────
+pymupdf
+pdfplumber
+pillow
+
+# ── Excel Export ──────────────────────────────────
+openpyxl
+
+# ── Utilities ─────────────────────────────────────
+python-dotenv
+numpy
